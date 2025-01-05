@@ -1,0 +1,2 @@
+# GBdic
+dictory for GB

@@ -1,8 +1,32 @@
-
 {
-  "data": [1, 2, 3, 4, 5]
-
-  {
-  "rata": [1, 2, 3, 4, 5]
-}
+    "Dic": [
+        {
+            "details": [
+                "parkhe",
+                "Henry.P III",
+                "age 16\n5'10 ft\n145 lb\nnen SP\nstand\n[Oak] ",
+                "Min\nX",
+                "Meals\nX",
+                "this"
+            ]
+        },
+        {
+            "details": [
+                "anotherPerson",
+                "Jane Doe",
+                "age 20\n5'6 ft\n130 lb\nnen RW\nstand\n[Maple]",
+                "Max\nY",
+                "Snacks\nY",
+                "that"
+            ]
+        }
+    ],
+    "Stats": [
+        {
+            "values": [100, 25, 0, 200, 200, 200]
+        },
+        {
+            "values": [90, 30, 10, 180, 190, 210]
+        }
+    ]
 }
